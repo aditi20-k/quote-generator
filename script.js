@@ -1,4 +1,5 @@
 const quotes=[
+ " hi my name is aditi", 
 
 "Dream big. Start small. Act now.",
 
