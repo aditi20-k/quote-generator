@@ -16,7 +16,8 @@ spec:
     spec:
       containers:
         - name: quote-generator
-          image: aditi20/quote-generator:latest
+          image: quote:latest
+          imagePullPolicy: Never
           ports:
             - containerPort: 80
           resources:
